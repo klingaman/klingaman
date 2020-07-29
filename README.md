@@ -2,6 +2,7 @@
 ## [klingaman.com][1]
 
 <pre>
+
                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
          ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
@@ -33,8 +34,6 @@
                     `!9899fT|!^"'
                       `!^"'
                       
-                   
-                   
 </pre>                   
 [1]: http://klingaman.com/
 <!--
